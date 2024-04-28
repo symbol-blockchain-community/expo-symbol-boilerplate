@@ -1,0 +1,36 @@
+{
+  "type": "module",
+  "name": "symbol-sdk-expo-sample",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "@babel/preset-typescript": "^7.24.1",
+    "@symbol-blockchain-community/expo-symbol-crypto": "^0.0.3-1.1",
+    "assert": "^2.1.0",
+    "buffer": "^4.9.2",
+    "events": "^1.1.1",
+    "expo": "~50.0.17",
+    "expo-status-bar": "~1.11.1",
+    "path-browserify": "^0.0.0",
+    "process": "^0.11.10",
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "stream-browserify": "^2.0.2",
+    "symbol-hd-wallets": "^0.14.2",
+    "symbol-sdk": "^3.2.1",
+    "url": "^0.11.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@openapitools/openapi-generator-cli": "^2.13.4",
+    "@types/react": "~18.2.45",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "typescript": "^5.1.3"
+  },
+  "private": true
+}
