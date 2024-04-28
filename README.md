@@ -1,4 +1,10 @@
-# symbol sdk expo sample
+
+<div align="center">
+<img src="./assets/symbol/symbol-logo.png" height=150 alt="symbol-logo">
+</div>
+
+
+# expo symbol boilerplate
 
 The boilerplate for developing a mobile application using Symbol SDK v3.
 
@@ -12,7 +18,7 @@ The boilerplate for developing a mobile application using Symbol SDK v3.
 1. Clone the repository:
 
 ```bash
-git clone ${this-repo}
+git clone https://github.com/symbol-blockchain-community/expo-symbol-boilerplate.git
 ```
 
 2. Install the dependencies:
